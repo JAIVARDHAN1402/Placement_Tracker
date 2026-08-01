@@ -63,7 +63,7 @@ export default function TopNavbar() {
             className="flex items-center space-x-2 font-bold text-lg hover:opacity-80"
           >
             <span className="text-2xl">📌</span>
-            <span>Placement System</span>
+            <span>Placement Tracker System</span>
           </Link>
 
           {/* Desktop Nav */}
